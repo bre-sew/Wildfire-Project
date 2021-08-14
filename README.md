@@ -41,3 +41,8 @@ The r-value and correlation strength of each analysis are listed below:
  - TMAX vs. fire extent: 0.17, none
  - TMAX vs. fire duration: 0.19, none
 
+## Improvements
+ - Improved granularity of data – wildfire damage and duration at the county or city level versus at the state level
+ - Visual data – heat map showing relationship between weather and fire
+ - Additional statistical tests and manipulation of data
+ - Additional years of data – ideally back to 1990
